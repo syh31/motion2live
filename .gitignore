@@ -1,0 +1,12 @@
+# Build outputs
+.build/
+bin/
+
+# Local samples and metadata
+livephoto-work/
+tools/real_makernote.bin
+
+# Python / macOS
+__pycache__/
+*.py[cod]
+.DS_Store
